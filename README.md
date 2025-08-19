@@ -47,3 +47,53 @@ The goal of the project was to gain hands-on experience with **3D transformation
 ```bash
 git clone https://github.com/<your-username>/CS-330.git
 cd CS-330
+
+
+### 2. Download Updated Shader Files  
+Ensure you have the **latest shader files** from the `shaders/` folder in this repo. These are required for correct rendering.  
+
+### 3. Extract the Final Project  
+Download and extract the `7-1_FinalProjectMilestones.zip` file. Inside, you will find the Visual Studio solution (`.sln`).  
+
+### 4. Open in Visual Studio  
+- Launch **Visual Studio (C++ environment)**  
+- Open the `.sln` file from the extracted project folder  
+- Configure the project (**x64 recommended**)  
+
+### 5. Build & Run  
+- Press **Build → Build Solution**  
+- Run the project (`Ctrl + F5` or the green play button)  
+
+---
+
+## 🎮 Usage Controls  
+- **W / A / S / D** → Move camera  
+- **Q / E** → Move up/down  
+- **Mouse Drag** → Orbit around objects  
+- **Scroll Wheel** → Zoom  
+
+---
+
+## 📚 Learning Outcomes  
+Through this project, I:  
+- Applied **linear algebra** concepts to 3D graphics  
+- Learned how to write **modular, reusable code** for graphics  
+- Experimented with **lighting and shading models**  
+- Implemented **user input** to create interactive 3D navigation  
+- Developed problem-solving skills through **trial-and-error testing**  
+
+---
+
+## 📌 Future Applications  
+The skills gained here extend to:  
+- 🎮 **Game development** (level design, lighting, camera systems)  
+- 🕶 **Virtual reality** simulations  
+- 🏗 **3D modeling and visualization** for engineering/science  
+- 💻 **Software development** with a focus on problem-solving  
+
+---
+
+## 👤 Author  
+**Carl LaLonde**  
+Computer Science Major – Software Engineering Concentration  
+Southern New Hampshire University
