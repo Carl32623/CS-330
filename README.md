@@ -34,7 +34,7 @@ The goal of the project was to gain hands-on experience with **3D transformation
 ---
 
 ## 📂 Repository Contents  
-- **`shaders/`** → GLSL shader files (⚠️ must be updated before running)  
+- **`shaders/`** → GLSL shader files 
 - **`7-1_FinalProjectMilestones.zip`** → Full Visual Studio solution with source code  
 - **`Carl LaLonde - Reflection.docx`** → Project reflection and learning summary  
 - **`README.md`** → Project instructions (this file)  
