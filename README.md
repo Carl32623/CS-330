@@ -47,7 +47,7 @@ The goal of the project was to gain hands-on experience with **3D transformation
 ```bash
 git clone https://github.com/<your-username>/CS-330.git
 cd CS-330
-
+```
 
 ### 2. Download Updated Shader Files  
 Ensure you have the **latest shader files** from the `shaders/` folder in this repo. These are required for correct rendering.  
