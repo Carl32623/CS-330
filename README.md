@@ -17,7 +17,7 @@ The goal of the project was to gain hands-on experience with **3D transformation
 > Example render of the workbench scene:  
 
 ![Workbench Scene](./preview.png)  
-*(Make sure to add a screenshot of your rendered scene in the repo as `preview.png` for this section to work!)*  
+
 
 ---
 
