@@ -1,11 +1,49 @@
-Carl LaLonde
+# CS-330 – Computer Graphics and Visualization  
 
-Computer Graphics and Visualization
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  
 
-While working on this 3D scene project, I started out by thinking about what I wanted my scene to look like, a realistic workbench with a hammer, toolbox, wrench, and lighting.  I used basic shapes like boxes and cylinders and figured out how to position and scale them to look like real objects.  The concepts of software design do not need to relate entirely to code, but more about thinking through the beforehand, so certain aspects will align later on.  
+---
 
-I used an organized approach by writing modular functions to handle camera movements, lighting, and object placement.  One of the bigger things that I learned was how to incorporate user input such as mouse and keyboard controls.  These were used to control the camera views, so the user was able to navigate and view the scene from different angles, making the experience interactive and more realistic.  I also experimented with different types of lighting and how it can impact the mood and look of the 3D scene.  Every time there was a change added, I ran the program to what worked and what didn’t.  This trial-and-error process helped me catch any bugs or issues early on in the development process.  
+## 📖 Project Overview  
+This project is a **3D scene created in C++ with OpenGL** for the CS-330 course. The scene represents a realistic **workbench environment** containing objects such as a hammer, toolbox, and wrench, with custom lighting and camera controls.  
 
-Throughout this project, my code became more organized and structured.  At first, I just tried to get things to work or certain shapes to align properly.  Towards the end, I was concentrating on how to keep my code organized, clean, and reusable.  Iteration was key, making small changes, testing them and repeating the process until the project came together.  Computer Science isn’t just about learning how to code, it’s a way of solving problems.
+The goal of the project was to gain hands-on experience with **3D transformations, shader programming, modular code design, and interactive camera controls**.  
 
-Being able to build virtual scenes such as this could open doors to different fields such as game development, simulations, and virtual reality.  It was beneficial to see how some of the concepts learned in Linear Algebra came together with programming to make a visual and interactive scene.  This project allowed me to start developing skills that can be applied to future jobs in software development.  
+---
+
+## 🎨 Preview  
+> Example render of the workbench scene:  
+
+![Workbench Scene](./preview.png)  
+*(Make sure to add a screenshot of your rendered scene in the repo as `preview.png` for this section to work!)*  
+
+---
+
+## 🚀 Features  
+- **3D Scene Construction** using primitives (boxes, cylinders, cones, etc.)  
+- **Custom Shaders** for realistic lighting and shading effects  
+- **Interactive Camera Controls**:  
+  - WASD / QE movement  
+  - Mouse orbit navigation  
+  - Scroll zooming  
+- **Lighting Effects** to experiment with mood and realism  
+- **Organized Modular Functions** for clean, reusable, and structured code  
+
+---
+
+## 📂 Repository Contents  
+- **`shaders/`** → GLSL shader files (⚠️ must be updated before running)  
+- **`7-1_FinalProjectMilestones.zip`** → Full Visual Studio solution with source code  
+- **`Carl LaLonde - Reflection.docx`** → Project reflection and learning summary  
+- **`README.md`** → Project instructions (this file)  
+
+---
+
+## 🛠️ Installation & Setup  
+
+### 1. Clone the Repository  
+```bash
+git clone https://github.com/<your-username>/CS-330.git
+cd CS-330
